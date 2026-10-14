@@ -1,0 +1,12 @@
+{
+  "name": "pokemon-baseball-draft-v4",
+  "version": "0.4.0",
+  "private": true,
+  "description": "Fifteen-Pokemon baseball drafting, timed CPU/autodraft, 162-game seasons and special events",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
